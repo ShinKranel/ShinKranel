@@ -20,4 +20,4 @@
   </div>
   <p><b>My engine:</b></p>
   <p>code: <code>Python</code> <code>FastAPI</code> <code>Pydantic</code></p>
-  <p>db: <code>SQLAlchemy</code> <code>PostgreSQL</code></p>
+  <p>db: <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>Alembic</code></p>
