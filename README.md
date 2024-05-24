@@ -7,6 +7,11 @@
   <a href="https://t.me/shinkranel">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <p>
+    <a href="https://leetcode.com/u/ShinKranel/">
+      <img src="https://img.shields.io/badge/leetcode-ffffff"></span>
+    </a>
+  </p>
   </div>
 
   <h1>
@@ -17,3 +22,4 @@
   <p><b>My engine:</b></p>
   <p>code: <code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>Redis</code> <code>Docker</code></p>
   <p>db: <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>Alembic</code></p>
+  <br>
