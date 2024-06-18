@@ -20,6 +20,6 @@
   </h1>
   </div>
   <p><b>My engine:</b></p>
-  <p>code: <code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>Redis</code> <code>Docker</code></p>
+  <p>code: <code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>Redis</code> <code>Docker</code> <code>Pytest</code></p>
   <p>db: <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>Alembic</code></p>
   <br>
