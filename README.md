@@ -5,7 +5,7 @@
     <img src="https://i.ibb.co/7zDcnfm/capi-heart.gif" width="30px"/>
   </h1>
   
-  <p>Backend developer | python + FastAPI</p>
+  <p>Backend Developer | Python + FastAPI</p>
   <p><code>looking for job</code></p>
   <div id="badges">
   <a href="https://t.me/shinkranel">
