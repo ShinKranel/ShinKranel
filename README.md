@@ -20,6 +20,18 @@
 
   </div>
   <p><b>My engine:</b></p>
-  <p>code: <code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>Redis</code> <code>Docker</code> <code>Pytest</code></p>
-  <p>db: <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>Alembic</code></p>
-  <br>
+  <div>
+    <span><img src="https://img.shields.io/badge/FastAPI-4400aa?style=for-the-badge&logo=fastapi"></span>
+    <span><img src="https://img.shields.io/badge/python-4400aa?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
+    <span><img src="https://img.shields.io/badge/pytest-4400aa?style=for-the-badge&logo=pytest"></span>
+    <span><img src="https://img.shields.io/badge/redis-4400aa?style=for-the-badge&logo=redis&logoColor=white"></span>
+     <span><img src="https://img.shields.io/badge/postgres-4400aa?style=for-the-badge&logo=postgresql&logoColor=white"></span>
+  </div>
+  
+  <div>
+    <span><img src="https://img.shields.io/badge/SQLAlchemy-7f22ff?style=for-the-badge&logo=sqlalchemy"></span>
+    <span><img src="https://img.shields.io/badge/alembic-7f22ff?style=for-the-badge&logo=alembic"></span>
+    <span><img src="https://img.shields.io/badge/docker-7f22ff?style=for-the-badge&logo=docker&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Manjaro-7f22ff?style=for-the-badge&logo=Manjaro&logoColor=white"></span>
+  </div>
+
