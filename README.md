@@ -29,9 +29,9 @@
   </div>
   
   <div>
-    <span><img src="https://img.shields.io/badge/SQLAlchemy-7f22ff?style=for-the-badge&logo=sqlalchemy"></span>
-    <span><img src="https://img.shields.io/badge/alembic-7f22ff?style=for-the-badge&logo=alembic"></span>
-    <span><img src="https://img.shields.io/badge/docker-7f22ff?style=for-the-badge&logo=docker&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/Manjaro-7f22ff?style=for-the-badge&logo=Manjaro&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/SQLAlchemy-4400aa?style=for-the-badge&logo=sqlalchemy"></span>
+    <span><img src="https://img.shields.io/badge/alembic-4400aa?style=for-the-badge&logo=alembic"></span>
+    <span><img src="https://img.shields.io/badge/docker-4400aa?style=for-the-badge&logo=docker&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Manjaro-4400aa?style=for-the-badge&logo=Manjaro&logoColor=white"></span>
   </div>
 
