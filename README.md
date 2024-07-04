@@ -6,7 +6,7 @@
   </h1>
   
   <p>Backend Developer | Python + FastAPI</p>
-  <p><code>looking for job</code></p>
+  <p><code>looking for a job</code></p>
   <div id="badges">
   <a href="https://t.me/shinkranel">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
