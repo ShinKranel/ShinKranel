@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <p>a little tired, I'm sorry</p>
+  <p>I'm here now. Let's make history</p>
 </div>
